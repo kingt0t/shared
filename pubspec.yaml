@@ -23,17 +23,17 @@ dependencies:
   
   yatl:
     git:
-      url: https://github.com/HrX03/yatl
+      url: https://github.com/kingt0t/yatl
       path: yatl
   
   yatl_flutter:
     git:
-      url: https://github.com/HrX03/yatl
+      url: https://github.com/kingt0t/yatl
       path: yatl_flutter
   
   yatl_gen:
     git:
-      url: https://github.com/HrX03/yatl
+      url: https://github.com/kingt0t/yatl
       path: yatl_gen
 
 dev_dependencies:
